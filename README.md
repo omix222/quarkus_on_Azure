@@ -3,6 +3,7 @@
 
 https://github.com/yoshioterada/MicroProfile-on-Azure-App-Service/blob/master/deploy-microprofile-quarkus-java-app-with-maven-plugin.md
 
+Azule上でGithub連携、Action作成済みなので、push すれば自動デプロイとなるはず。
 
 
 # quarkus-hello-azure project
